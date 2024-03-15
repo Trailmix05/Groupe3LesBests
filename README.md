@@ -11,4 +11,4 @@ Mais sur un ton plus sérieux voici notre dépôt github.
 - Nolhan Biblocque
 - Pierre Cornu
 
-Nous faisons ce TP le 15/03/2024, et bienvenu!
+Nous faisons ce TP le 15/03/2024, et bienvenue !
